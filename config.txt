@@ -3,4 +3,4 @@ prefix=$
 game=Break |!             Abdo#9888
 stayinchannel=true
 songinstatus=false
-token=NjExNjY4ODA4NDE0OTIwNzM0.XVXL7g.wD_HhsUH6PmpkCkmnA0wT_LtiWg
+token=NjExNjkxMTM4NDg2NjMyNDUw.XVXf5g.RzBZ1EaXvwOy1cEsKhKwow81FP4
